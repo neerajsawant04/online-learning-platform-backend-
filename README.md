@@ -20,11 +20,4 @@ Backend for the **Online Learning Platform** built with **Express.js**, **TypeSc
    ```bash
    cd online-learning-platform-backend
    npm install
-3. Create a .env file
-   ```bash
-   MONGO_URI=your-mongodb-connection-string
-   JWT_SECRET=your-jwt-secret-key
-   PORT=5000
-4. Start the server:
-   ```bash
-   npm run dev
+
